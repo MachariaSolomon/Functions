@@ -1,2 +1,0 @@
-# Functions
-Simple functions file
